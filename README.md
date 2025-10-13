@@ -31,5 +31,5 @@ python main.py
 
 If you have any questions, feel free to reach out:
 
-- **Telegram:** [@YourUsername](https://t.me/erfan4lx_news)
+- **Telegram:** [@erfan4lx_news](https://t.me/erfan4lx_news)
 - **Email:** erfan4lx@gmail.com
