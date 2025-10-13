@@ -31,7 +31,8 @@ python main.py
 
 ## 💬 **Connect With Me**
 
-👉 **Telegram:** [**@erfan4lx10**](https://t.me/erfan4lx10)  
+👉 **Telegram:** [**https://t.me/erfan4lx10**](https://t.me/erfan4lx10)
+🌐 **Website:** [**erfan4lx.com**](https://erfan4lx.com) 
 📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
 
 ---
