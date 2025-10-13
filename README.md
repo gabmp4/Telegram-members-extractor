@@ -33,7 +33,7 @@ python main.py
 
 👉 **Telegram:** [**https://t.me/erfan4lx10**](https://t.me/erfan4lx10)
 
-🌐 **Website:** [**erfan4lx.com**](https://erfan4lx.com) 
+🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
 
 📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
 
@@ -42,3 +42,12 @@ python main.py
 🆔My YouTube Channel : https://youtube.com/erfan4lx
 
 🆔My Telegram Channel : https://t.me/erfan4lx_news
+
+<p align="center">
+  Follow Me On
+</p>
+<p align="center">
+  <a href="https://www.youtube.com/c/erfan4lx?sub_confirmation=1">
+    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
+  </a>
+</p>
