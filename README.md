@@ -24,3 +24,5 @@ python main.py
 ## 📦 Requirements
 - Python 3.10+
 - Windows 10/11 — Linux/Mac
+
+## 📸 Preview ![App Screenshot](screenshot.png)
