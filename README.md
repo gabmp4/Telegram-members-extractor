@@ -9,10 +9,10 @@ A free GUI tool to extract member lists from both regular Telegram groups and gr
 - Extract members by group messages
 - Live status & logs UI
 
-## 🚀 Watch it on YouTube
+## 🚀 Watch it on YouTube 🚀
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-## 🚀 Get it from our Website
+## 🚀 Get it from our Website 🚀
 🌐 **Website:** [**https://erfan4lx.com/product/telegram-members-extractor/**](https://erfan4lx.com/product/telegram-members-extractor/) 
 
 
