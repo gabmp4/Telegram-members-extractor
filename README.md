@@ -6,7 +6,7 @@ A free GUI tool to extract member lists from both regular Telegram groups and gr
 ## ✨ Features
 - Accounts login & management
 - Extract members by group link/username
-- Extract group messages (CSV/JSON ready)
+- Extract members by group messages
 - Live status & logs UI
 
 ## 🚀 Watch it on YouTube
