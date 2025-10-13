@@ -12,7 +12,11 @@ A free GUI tool to extract member lists from both regular Telegram groups and gr
 ## 🚀 Watch it on YouTube
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-> 🎥 Watch the full tutorial and demo of this project on my YouTube channel.
+<p align="center">
+  <a href="https://erfan4lx.com/product/telegram-members-extractor" target="_blank">
+    📥 <strong>Download from Website</strong>
+  </a>
+</p>
 
 
 ## 🚀 How to Use
