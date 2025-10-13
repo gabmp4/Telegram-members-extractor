@@ -29,7 +29,8 @@ python main.py
 
 ## 📬 Contact
 
-If you have any questions, feel free to reach out:
-
-- **Telegram:** [@erfan4lx_news](https://t.me/erfan4lx_news)
+- **Telegram:** [https://t.me/erfan4lx10](https://t.me/erfan4lx10)
 - **Email:** erfan4lx@gmail.com
+- 
+🆔My YouTube Channel : https://youtube.com/erfan4lx
+🆔My Telegram Channel : https://t.me/erfan4lx_news
