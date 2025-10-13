@@ -27,10 +27,14 @@ python main.py
 
 ## 📸 Preview ![App Screenshot](screenshot.png)
 
-## 📬 Contact
+---
 
-- **Telegram:** [https://t.me/erfan4lx10](https://t.me/erfan4lx10)
-- **Email:** erfan4lx@gmail.com
+## 💬 **Connect With Me**
+
+👉 **Telegram:** [**@erfan4lx10**](https://t.me/erfan4lx10)  
+📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
+
+---
 
 🆔My YouTube Channel : https://youtube.com/erfan4lx
 
