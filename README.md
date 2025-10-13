@@ -26,3 +26,10 @@ python main.py
 - Windows 10/11 — Linux/Mac
 
 ## 📸 Preview ![App Screenshot](screenshot.png)
+
+## 📬 Contact
+
+If you have any questions, feel free to reach out:
+
+- **Telegram:** [@YourUsername](https://t.me/erfan4lx_news)
+- **Email:** erfan4lx@gmail.com
