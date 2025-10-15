@@ -44,6 +44,13 @@ python main.py
 
 🆔My Telegram Channel : https://t.me/erfan4lx_news
 
+⚠️ *Important Disclaimer*
+This project and video are for **educational, research, and administrative purposes only**.  
+It *does not* provide or encourage any method to bypass Telegram privacy settings or access hidden data.  
+Any misuse that violates Telegram’s *Terms of Service* or local laws is strictly prohibited.  
+
+Always use anonymized/test datasets or data you have *explicit consent* to process.
+
 <p align="center">
   Follow Me On
 </p>
